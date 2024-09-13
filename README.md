@@ -1,5 +1,6 @@
-# 💫 About Me:
+# Hi 👋, I'm Will Krzastek:
 🔭 I’m currently studying Computer Engineering at the University of Notre Dame<br>🌱 I’m curious about AI/ML in autonomous systems
+<br>🚀 I am an ACS engineer on the Notre Dame Rocketry Team, a TA for the Notre Dame CSE Department (Discrete Math), and a player on the Notre Dame Rugby Team
 
 
 ## 🌐 Socials:
