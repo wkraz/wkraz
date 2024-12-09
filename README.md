@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Computer Engineering at the University of Notre Dame<br>🌱 I’m curious about AI/ML in autonomous systems<br>🚀 I'm an ACS engineer on the Notre Dame Rocketry Team, a TA for the Notre Dame CSE Department, and a player on the Notre Dame Rugby Team<br>💻 Some of my projects include full-stack websites and ML algorithms
+🔭 I’m currently studying Computer Engineering at the University of Notre Dame<br>🌱 I’m curious about AI/ML in autonomous systems<br>🚀 I'm an undergrad researcher in Notre Dame's Drone Response Lab, an Apogee Control Systems engineer for the Notre Dame Rocketry Team, a TA for the Notre Dame CSE Department, and a player on the Notre Dame Rugby Team<br>💻 Some of my projects include full-stack websites and ML frameworks/algorithms
 
 
 ## 🌐 Socials:
